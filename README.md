@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aurabot
 - 👀 I’m interested in coding. (cpp, web development, c#)
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on nothing yet
+- 💞️ I’m looking to collaborate on Angular
 - 📫 How to reach me main.dachi@gmail.com
 
 <!---
