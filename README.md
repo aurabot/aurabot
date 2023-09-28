@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aurabot
-- 👀 I’m interested in coding. (cpp, web development, c#)
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in languages such as (html, css, ts). Databases like MangoDB I will learn soon
+- 🌱 I’m currently working on a project
 - 💞️ I’m looking to collaborate on Angular
 - 📫 How to reach me main.dachi@gmail.com
 
